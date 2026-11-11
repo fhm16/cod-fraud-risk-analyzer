@@ -1,0 +1,18 @@
+[
+  {
+    "case": "low-risk",
+    "customer_name": "Test User A",
+    "phone": "01712345678",
+    "address": "House 12, Road 5, Dhanmondi, Dhaka",
+    "order_amount": 1200,
+    "payment_method": "COD"
+  },
+  {
+    "case": "high-risk",
+    "customer_name": "Test User B",
+    "phone": "0123456",
+    "address": "Dhaka",
+    "order_amount": 15000,
+    "payment_method": "COD"
+  }
+]
